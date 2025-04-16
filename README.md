@@ -1,5 +1,8 @@
 # Electrical-Vehicle-Population-Analysis
 
+![image](https://github.com/user-attachments/assets/332813ab-fd43-43db-b4fc-ead72cbafe13)
+
+
 **Project Objective**
 
 This project's objective is to perform an in-depth analysis of Electric Vehicle (EV) population data to uncover trends, patterns, and insights related to EV growth and adoption. The project uses Power BI, Tableau, and Python to provide interactive dashboards and data-driven visualizations that help stakeholders understand regional distributions, vehicle types, manufacturer statistics, and policy impacts on EV usage.
