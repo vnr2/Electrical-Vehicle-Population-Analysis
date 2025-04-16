@@ -1,6 +1,7 @@
 # Electrical-Vehicle-Population-Analysis
 
 ![image](https://github.com/user-attachments/assets/332813ab-fd43-43db-b4fc-ead72cbafe13)
+![image](https://github.com/user-attachments/assets/276c747d-9b6c-425a-b37b-91c9318b827f)
 
 
 **Project Objective**
